@@ -1,5 +1,8 @@
 # README
 
+This is an app that allows users to keep tracks of pingpong scores and keeping tracks of the rankings of groups of players
+This implementation  has both frontend and backend code 
+
 ### `setting up firebase config`
 
 Setting up a brand new firebase database, follow the steps the firebase UI give you
